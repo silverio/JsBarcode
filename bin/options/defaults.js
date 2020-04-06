@@ -22,6 +22,7 @@ var defaults = {
 	marginBottom: undefined,
 	marginLeft: undefined,
 	marginRight: undefined,
+	xmlDocument: undefined,
 	valid: function valid() {}
 };
 

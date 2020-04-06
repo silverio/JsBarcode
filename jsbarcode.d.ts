@@ -18,6 +18,7 @@ declare namespace JsBarcode {
     marginBottom?: number;
     marginLeft?: number;
     marginRight?: number;
+    xmlDocument?: Document
     valid?: (valid: boolean) => void;
   }
 
